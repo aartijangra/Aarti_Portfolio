@@ -1,0 +1,30 @@
+.Navbar{
+    height: 170px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-right: 60px;
+   margin-left: 40px;
+   font-size: 20px;
+
+}
+.nav-list{
+    width: 100vw;
+    display: flex;
+    align-items: right;
+    justify-content: center;
+    list-style: none;
+    gap: 60px;
+    font-size: 20px;
+}
+.nav-list li{
+    display: inline;
+    font-size: 18px;
+}
+.nav-logo{
+    height: 190px;
+    width: 190px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

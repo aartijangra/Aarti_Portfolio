@@ -1,0 +1,44 @@
+.hero{
+    display: flex;
+    margin-right: 60px;
+   margin-left: 60px;
+}
+.hero-head{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 40px;
+}
+.hero-head{
+    font-size: 45px;
+    font-weight: 600;
+}
+.hero-head span{
+    background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 60px;
+}
+.hero-para{
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+.hero-btn{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 30px;
+}
+.hero-btn button{
+    
+    
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    background: linear-gradient(267deg, #DA7C25 0.36%, #B415FF 102.36%);
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
