@@ -6,10 +6,9 @@ const Navbar = () => {
    <img className='nav-logo' src={logo} alt="" />
     <div className='Navbar'>
       <ul className='nav-list'>
-        <li>Home</li>
         <li>About Me</li>
-        <li>Skills</li>
         <li>Projects</li>
+        <li>Resume</li>
         <li>Contact Me</li>
       </ul>
      
