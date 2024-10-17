@@ -17,7 +17,7 @@ const Hero = () => {
         </h1>
         <p className="hero-para">
           I am a full stack web developer with experience in building web
-          applications using JavaScript, React, Node.js, and MongoDB. I am
+          applications using JavaScript, React.js, Node.js, and MongoDB. I am
           passionate about coding and building user-friendly web applications. I
           am looking for a full-time role as a full stack web developer.
         </p>

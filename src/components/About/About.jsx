@@ -6,7 +6,7 @@ const About = () => {
     <div id='about' className='About'>
       <h1 className='about-head'>ABOUT ME</h1>
       <div className='about-para'>
-        <p>Hi, I'm Aarti, a passionate Web Developer with a focus on creating responsive and user-friendly websites. Currently pursuing my Master of Computer Applications (MCA), I have developed a solid foundation in web technologies and have experience working with modern web development stacks like MERN (MongoDB, Express.js, React.js, and Node.js).</p>
+        <p>Hi, I'm Aarti, a passionate Web Developer with a focus on creating responsive and user-friendly websites. Currently pursuing my Master of Computer Applications (MCA), I have developed a solid foundation in web technologies and have experience working with modern web development stacks like MERN (MongoDB, Express.js, React.js, and Node.js). I have contributed to open-source projects, applying my skills to help improve and optimize codebases. Additionally, I completed internship where I gained practical experience in frontend web development.</p>
         <p>With a keen eye for detail and a drive for excellence, I am always looking to tackle new challenges in web development, create impactful user experiences, and bring innovative ideas to life.</p>
       </div>
       <div className='about-skills'>
