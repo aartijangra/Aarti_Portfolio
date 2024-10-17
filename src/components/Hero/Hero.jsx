@@ -7,7 +7,7 @@ import location from "../../assets/location.svg"
 
 const Hero = () => {
   return (
-    <div className="hero">
+    <div id="home" className="hero">
       <div className="hero-content">
         <h1 className="hero-head">
           <span>Hello! I'm Aarti Jangra</span>A full stack web developer

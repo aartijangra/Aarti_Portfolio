@@ -6,7 +6,7 @@ import linkedin from '../../assets/linkedin.svg'
 
 const Contact = () => {
   return (
-    <div className='contact'>
+    <div id='contact' className='contact'>
         <div className='contact-title'>
             Get in touch
         </div>

@@ -3,7 +3,7 @@ import './Projects.css'
 import Projects_data from '../../assets/Projects_data.js'
 const Projects = () => {
   return (
-    <div className='Projects'>
+    <div id='projects' className='Projects'>
 
       <div className='mywork-title'> My latest work </div>
 

@@ -33,3 +33,16 @@
     top: 0;
     left: 0;
 }
+.hoverable {
+    cursor: pointer;
+    text-decoration-line: underline;
+    font-size: large;
+    color: orange;
+    transition: color 0.3s;
+    cursor: pointer;
+  }
+  
+  .anchor-link{
+    text-decoration: none;
+    color: white;
+  }
