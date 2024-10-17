@@ -11,7 +11,6 @@ Welcome to my portfolio! This project showcases my work, skills, and projects th
 - [About the Project](#about-the-project)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Projects](#projects)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
@@ -34,20 +33,9 @@ This portfolio is designed to give a comprehensive view of my technical expertis
 - **Project Showcase**: Provides details of significant projects I’ve worked on, including links to live versions and GitHub repositories.
 - **Interactive UI**: Smooth navigation and dynamic content loading using React.
 - **Open-Source Contributions**: Highlights contributions made to community projects.
-- **Secure Login**: For certain sections, there is a secure login system.
 
-## Projects
 
-### 1. [Bharat Yatra](https://github.com/yourusername/bharat-yatra)
-   A tourist app providing descriptions and insights about various tourist destinations in India. Built using React and Vite.
-
-### 2. [E-commerce Platform](https://github.com/yourusername/e-commerce-platform)
-   A feature-rich online store with category-wise product filtering, a secure admin panel, and more. Built using the MERN stack.
-
-### 3. [Social Media App](https://github.com/yourusername/social-media-app)
-   A MERN stack social media application with key features like email authentication, searching, pagination, and filtering comments.
-
-_You can find more of my projects and contributions on my [GitHub](https://github.com/yourusername)._
+_You can find more of my projects and contributions on my [GitHub](https://github.com/aartijangra)._
 
 ## Installation
 
@@ -86,9 +74,9 @@ To clone and run this portfolio locally, follow these steps:
 ## Contact
 
 - **Name**: Aarti
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [aartijangra482@gmail.com](mailto:aartijangra482@gmail.com)
+- **GitHub**: [github.com/aartijangra](https://github.com/aartijangra)
+- **LinkedIn**: [linkedin.com/in/aarti-jangra](https://www.linkedin.com/in/aarti-jangra-044427220/)
 
 Thank you for visiting my portfolio!
 
