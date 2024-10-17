@@ -6,6 +6,9 @@ import mail from "../../assets/mail.svg";
 import location from "../../assets/location.svg"
 
 const Hero = () => {
+  const handleOpenResume = () => {
+    window.open('Aarti_Resume.pdf', '_blank');  // This opens the resume PDF in a new tab
+  };
   return (
     <div id="home" className="hero">
       <div className="hero-content">
@@ -36,7 +39,7 @@ const Hero = () => {
         <div className="hero-btn">
           <a href="https://www.linkedin.com/in/aarti-jangra-044427220/"><button>View Linkedin</button></a>
           <a href="https://github.com/aartijangra"><button>View Github</button></a>
-          
+          <button onClick={handleOpenResume}>View Resume</button>
         </div>
       </div>
       <div>
