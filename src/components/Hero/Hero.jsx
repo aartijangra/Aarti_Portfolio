@@ -24,7 +24,7 @@ const Hero = () => {
         <div className="location">
           <div className="loc"> 
           <img className="loc" src={location} alt="" />
-          <p>Haryana, India</p>
+          <p>New Delhi, India</p>
          
           </div>
           

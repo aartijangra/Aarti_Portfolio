@@ -21,7 +21,7 @@ const Contact = () => {
                     </div>
                     <div className="contact-detail">
                         <img className='contact-svg' src={location} alt="" />
-                        <p>Jalandhar, Punjab</p>
+                        <p>New Delhi, India</p>
                     </div>
                     <div className="contact-detail">
                         <img className='contact-svg' src={linkedin} alt="" />
