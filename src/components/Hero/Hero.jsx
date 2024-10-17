@@ -39,7 +39,7 @@ const Hero = () => {
         <div className="hero-btn">
           <a href="https://www.linkedin.com/in/aarti-jangra-044427220/"><button>View Linkedin</button></a>
           <a href="https://github.com/aartijangra"><button>View Github</button></a>
-          <button onClick={handleOpenResume}>View Resume</button>
+          <button className="resume-btn" onClick={handleOpenResume}>View Resume</button>
         </div>
       </div>
       <div>
