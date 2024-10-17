@@ -1,0 +1,42 @@
+.Projects{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: 80px 170px ;
+}
+/* .pro-img{
+    width: 400px;
+    height: 250px;
+} */
+.mywork-title{
+    position: relative;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0 30px;
+}
+.Projects-container{
+    margin-left: 30px;
+    margin-right: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+
+}
+.Projects-container img{
+    box-sizing: border-box;
+    width: 400px;
+    height: 250px;
+    transition: 0.3s;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.Projects-container img:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 0px 15px 5px rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    transition: 0.3s;
+    
+}
